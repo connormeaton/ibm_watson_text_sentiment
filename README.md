@@ -1,6 +1,6 @@
 ### ibm_nlu
 
-This repository contains code to analyze sentiment and emotion from text using IBM Watson's NLU API. 
+This repository contains code to analyze sentiment and emotion from text using [IBM Watson's NLU API](https://www.ibm.com/watson/services/natural-language-understanding/). 
 
 The code does the follow:
   - Input the final, utterance-based transcript for a couple ID as a pandas dataframe.
