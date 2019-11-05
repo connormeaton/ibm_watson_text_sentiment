@@ -9,6 +9,7 @@ The code does the follow:
   - Store emotion and sentiment output for each utterance in a dictionary.
   - Append each dictionary to a list.
   - Create pandas dataframe where each row is an utterance containing 8 columns:
+  
           - utterance text (string)
           - sentiment score (float) (-1-1)
           - sentiment label (string) (categorical [positive, negative, neutral])
